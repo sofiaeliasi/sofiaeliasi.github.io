@@ -1,0 +1,64 @@
+body {
+    font-family :'Courier New', Courier, monospace;
+    margin:0;
+}
+
+h1 {
+    text-align : center;
+    padding : 20px;
+    color : black(255, 255, 255);
+    margin : 0;
+
+}
+h2{
+    text-align : center;
+    padding : 10px;
+    color:black;
+    margin:0;
+    font-size:30px;
+}
+.webTitle {
+    text-align : center;
+    font-size : 18px;
+
+    color:black;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p{
+    padding : 50px;
+    justify-content : center;
+    align-items : center;
+    font-size : 24px;
+    line-height:1.5;
+}
+.titleOfBook{
+    font-size : 25px;
+}
+button{
+    display:block;
+    margin:auto;
+    font-size : 18px;
+    font-family :'Courier New', Courier, monospace;
+    background-color : black;
+    color : antiquewhite;
+    background-color: #C70039;
+    margin-top:auto;
+}
+.section1{
+    background-color:#454B1B;
+    color:white;
+}
+.section2{
+    background-color: cornflowerblue;
+    color:black;
+}
+.section3{
+    background-color: pink;
+    color:black;
+}
+.section4{
+    background-color: peru;
+    color:black;
+}
